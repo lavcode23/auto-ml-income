@@ -1,4 +1,4 @@
-AutoML Income Prediction System
+"AutoML Income Prediction System"
 
 A fully automated machine learning engine that predicts whether a person earns more or less than 50K annually using multiple ML models and selects the best one automatically.
 
@@ -183,5 +183,6 @@ API version using FastAPI
 Lavisha Yadav — AI & ML Engineer
 
 GitHub: https://github.com/lavcode23
+
 
 LinkedIn: https://www.linkedin.com/in/lavishayadav-ai
